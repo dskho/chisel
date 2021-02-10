@@ -1,3 +1,7 @@
+kx_chinese manual 
+https://mp.weixin.qq.com/s?__biz=MzU1NzkwMTc3Mw==&mid=2247485937&idx=1&sn=b4d1fdbae6d6fba8c5a1f1033d5ef659&chksm=fc2ffb53cb5872457aca0d04ded75d0e30d22b3056294b697a1f20b183b074b45fc0e6761dc0&scene=132#wechat_redirect
+
+
 # chisel
 
 [![GoDoc](https://godoc.org/github.com/jpillora/chisel?status.svg)](https://godoc.org/github.com/jpillora/chisel)
